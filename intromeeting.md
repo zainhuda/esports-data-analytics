@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# E-Sports Data Analytics
+
+>>>>>>> b80e0ffbe918409bc83c2895225b03819b22b763
 # Meeting Objective
 + Introduce everyone to each other, make sure everyone is comfortable with one another
 + Show roadmap of where we wanna go and the steps needed
