@@ -8,16 +8,17 @@ Michael's business worked because:
 
 ## Ask yourself
 
-[ ]  How serious is your problem?
-[ ]  How specifically are you solving the problem for first?
-[ ]  Solve a problem people need to solve regularly
-[ ]  How easy are your customers to find?
-[ ]  Does your MVP actually solve the problem?
-- Get users on your product early (you are not an artist)
-[ ]  Who are the most desperate customers, sell to them first. If it takes 10 months, they aren't desperate
-[ ]  Who's business is going to go out of business, without your software?
-[ ]  Be weary of 'customers' who are taking the piss and avoid them
-[ ]  Be cautious with your discounts. Use discounts for urgency but don't devalue your product / service
++ How serious is your problem?
++ How specifically are you solving the problem for first?
++ Solve a problem people need to solve regularly
++ How easy are your customers to find?
++ Does your MVP actually solve the problem?
+
++ Get users on your product early (you are not an artist)
++ Who are the most desperate customers, sell to them first. If it takes 10 months, they aren't desperate
++ Who's business is going to go out of business, without your software?
++ Be weary of 'customers' who are taking the piss and avoid them
++ Be cautious with your discounts. Use discounts for urgency but don't devalue your product / service
 
 ## Metrics
 
