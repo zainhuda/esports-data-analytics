@@ -1,15 +1,18 @@
+# Product Market Fit
 # Startup Phases
+
+This is for the video: https://www.youtube.com/watch?v=0LNQxT9LvM0
 
 1. Idea
 2. Prototype
 3. Launch
 4. Traction
-5. Monitisation
+5. Monetization
 6. Growth
 
 Idea > Traction: Is finding Product Market Fit (Hardest Stage)
 
-Traction > Growth: Is optimising product market fit
+Traction > Growth: Is optimizing product market fit
 
 # Major Challenges
 
@@ -35,7 +38,7 @@ Traction > Growth: Is optimising product market fit
 4. Build solution to problem
   - People don't know what they want, that's why market research isn't ideal. But talking to customers is critical.
   - No great solution was built in vacuum
-  - Most important thing is to quickly infront of users
+  - Most important thing is to quickly in front of users
   - Don't worry about making things that will scale
   - Product experience is more important than money
   - No matter how many times you think you will need to iterate, 10x it
@@ -108,4 +111,4 @@ https://brianbalfour.com/essays/hubspot-growth-framework-100m
 
 - "Your company only fails when you give up"
 
-##### Notes by a guy on youtube 
+##### Notes by a guy on YouTube  
